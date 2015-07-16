@@ -1,3 +1,34 @@
+#1.7.1.4版更新说明
+0.  感谢知友@[Philip Matthew](http://www.zhihu.com/people/matthewphilip)、@[鱼藻君](http://www.zhihu.com/people/yuzaojun)的捐赠
+1.  修复了一处在制作大体积电子书时出现的http错误
+2.  修正了一处由于代码编写失误导致当知乎全站页面切换到gzip格式后引起的程序崩溃
+3.  开始着手添加单元测试，为进一步的发展做准备
+
+#1.7.1.3版更新说明
+0.  感谢知友@[梨花雨凉](http://www.zhihu.com/people/li-hua-yu-liang-19)、@[Popeye](http://www.zhihu.com/people/lijiumixin)和@[圈圈](http://www.zhihu.com/people/wei-juan-juan)的捐赠！
+1.  感谢知友@[程峰](http://www.zhihu.com/people/cheng-feng-7)的建议，对开始运行时的导语做了一定的调整
+2.  感谢知友@[废柴大叔](http://www.zhihu.com/people/feichai_dashu)的反馈，修复了一处由于问题标题中含有非法字符导致创建文件夹失败的bug
+3.  感谢知友@[派先生](http://www.zhihu.com/people/li-yi-3-42)的反馈，修复了一处由于未添加cookie导致的私人收藏夹下载失败的bug
+4.  感谢众多知友的反馈，专栏下载功能修好了已经XD
+5.  修复了一处由于if判断写反了导致的专栏题图丢失的bug
+
+#1.7.1.2版更新说明
+1.  修复了专栏文章未按发布日期排列的bug
+2.  同样感谢知友@[沸羊羊的夏天](http://www.zhihu.com/people/fei-yang-yang-de-xia-tian)、@[Oliver Xia](http://www.zhihu.com/people/oliver2870)、@[毛轶彬](http://www.zhihu.com/people/mao-yi-bin)反馈的bug，昨天晚上写代码写的精神恍惚，忘记致谢了。。。Sorry。。。
+再次感谢！
+
+#1.7.1.1版更新说明
+1.  紧急修复了一处css的bug
+
+#1.7.1版更新说明
+1.  感谢知友张佳硕，陈松的捐赠！
+2.  感谢知友@[fun-gun](http://www.zhihu.com/people/fun-gun)反馈的bug,助手无法将话题保存为电子书的bug已修复
+3.  感谢知友@[罗晨](http://www.zhihu.com/people/luo-chen-26)的建议，将code文件夹改为了codes
+3.  热烈欢迎@[青葭](http://www.zhihu.com/people/qing-jia-57)回归知乎，撒花~
+4.  增加专栏助手功能，而且,专栏按时间顺序逆序排列！这个功能终于实现了，再次撒花～
+5.  大幅度调整代码，简化了代码结构
+6.  重做了网页生成模板
+
 #1.7.0.2版更新说明
 1.  进行了压力测试
 2.  增强了抓取答案的能力，降低了漏答率
